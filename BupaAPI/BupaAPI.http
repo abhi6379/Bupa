@@ -1,0 +1,6 @@
+@BupaAPI_HostAddress = https://localhost:7226
+
+GET {{BupaAPI_HostAddress}}/api/v1/BookOwners
+Accept: application/json
+
+###

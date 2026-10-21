@@ -1,0 +1,19 @@
+# Ignore Git folder itself
+.git/
+
+# Ignore Visual Studio folder
+.vs/
+
+# Ignore build output folders
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.log
+
+# Ignore cache and temp files
+*.cache
+*.pdb
+*.tmp
